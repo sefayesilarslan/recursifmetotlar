@@ -1,0 +1,15 @@
+C:\pratikler\metotlaruc\bin\Debug\net6.0\metotlaruc.exe
+C:\pratikler\metotlaruc\bin\Debug\net6.0\metotlaruc.deps.json
+C:\pratikler\metotlaruc\bin\Debug\net6.0\metotlaruc.runtimeconfig.json
+C:\pratikler\metotlaruc\bin\Debug\net6.0\metotlaruc.dll
+C:\pratikler\metotlaruc\bin\Debug\net6.0\metotlaruc.pdb
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.csproj.AssemblyReference.cache
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.AssemblyInfoInputs.cache
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.AssemblyInfo.cs
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.csproj.CoreCompileInputs.cache
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.dll
+C:\pratikler\metotlaruc\obj\Debug\net6.0\refint\metotlaruc.dll
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.pdb
+C:\pratikler\metotlaruc\obj\Debug\net6.0\metotlaruc.genruntimeconfig.cache
+C:\pratikler\metotlaruc\obj\Debug\net6.0\ref\metotlaruc.dll
